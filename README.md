@@ -29,6 +29,7 @@ Interesting Questions of DSA
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/HimanshuSingh-tech/DSA/tree/master/0039-combination-sum) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/HimanshuSingh-tech/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
 |  |
@@ -46,4 +47,8 @@ Interesting Questions of DSA
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/HimanshuSingh-tech/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/HimanshuSingh-tech/DSA/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
