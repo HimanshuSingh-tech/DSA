@@ -26,6 +26,7 @@ Interesting Questions of DSA
 |  |
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/HimanshuSingh-tech/DSA/tree/master/2390-removing-stars-from-a-string) |
+| [2739-total-distance-traveled](https://github.com/HimanshuSingh-tech/DSA/tree/master/2739-total-distance-traveled) |
 ## Array
 |  |
 | ------- |
@@ -51,4 +52,8 @@ Interesting Questions of DSA
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/HimanshuSingh-tech/DSA/tree/master/0039-combination-sum) |
+## Math
+|  |
+| ------- |
+| [2739-total-distance-traveled](https://github.com/HimanshuSingh-tech/DSA/tree/master/2739-total-distance-traveled) |
 <!---LeetCode Topics End-->
