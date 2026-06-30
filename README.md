@@ -7,11 +7,13 @@ Interesting Questions of DSA
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/HimanshuSingh-tech/DSA/tree/master/1189-maximum-number-of-balloons) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/HimanshuSingh-tech/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/HimanshuSingh-tech/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/HimanshuSingh-tech/DSA/tree/master/1189-maximum-number-of-balloons) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/HimanshuSingh-tech/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2390-removing-stars-from-a-string](https://github.com/HimanshuSingh-tech/DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Counting
 |  |
@@ -69,4 +71,8 @@ Interesting Questions of DSA
 |  |
 | ------- |
 | [0948-bag-of-tokens](https://github.com/HimanshuSingh-tech/DSA/tree/master/0948-bag-of-tokens) |
+## Sliding Window
+|  |
+| ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/HimanshuSingh-tech/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->
