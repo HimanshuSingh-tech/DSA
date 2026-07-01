@@ -23,6 +23,7 @@ Interesting Questions of DSA
 ## Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/HimanshuSingh-tech/DSA/tree/master/0739-daily-temperatures) |
 | [2390-removing-stars-from-a-string](https://github.com/HimanshuSingh-tech/DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
@@ -33,6 +34,7 @@ Interesting Questions of DSA
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/HimanshuSingh-tech/DSA/tree/master/0039-combination-sum) |
+| [0739-daily-temperatures](https://github.com/HimanshuSingh-tech/DSA/tree/master/0739-daily-temperatures) |
 | [0948-bag-of-tokens](https://github.com/HimanshuSingh-tech/DSA/tree/master/0948-bag-of-tokens) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/HimanshuSingh-tech/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
@@ -75,4 +77,8 @@ Interesting Questions of DSA
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/HimanshuSingh-tech/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/HimanshuSingh-tech/DSA/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
