@@ -6,12 +6,14 @@ Interesting Questions of DSA
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/HimanshuSingh-tech/DSA/tree/master/0012-integer-to-roman) |
 | [1189-maximum-number-of-balloons](https://github.com/HimanshuSingh-tech/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/HimanshuSingh-tech/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/HimanshuSingh-tech/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/HimanshuSingh-tech/DSA/tree/master/0012-integer-to-roman) |
 | [1189-maximum-number-of-balloons](https://github.com/HimanshuSingh-tech/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/HimanshuSingh-tech/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2390-removing-stars-from-a-string](https://github.com/HimanshuSingh-tech/DSA/tree/master/2390-removing-stars-from-a-string) |
@@ -62,6 +64,7 @@ Interesting Questions of DSA
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/HimanshuSingh-tech/DSA/tree/master/0012-integer-to-roman) |
 | [2739-total-distance-traveled](https://github.com/HimanshuSingh-tech/DSA/tree/master/2739-total-distance-traveled) |
 ## Two Pointers
 |  |
