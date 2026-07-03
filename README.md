@@ -86,4 +86,12 @@ Interesting Questions of DSA
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/HimanshuSingh-tech/DSA/tree/master/0739-daily-temperatures) |
+## Linked List
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/HimanshuSingh-tech/DSA/tree/master/0024-swap-nodes-in-pairs) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/HimanshuSingh-tech/DSA/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
