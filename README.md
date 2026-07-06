@@ -39,6 +39,7 @@ Interesting Questions of DSA
 | [0238-product-of-array-except-self](https://github.com/HimanshuSingh-tech/DSA/tree/master/0238-product-of-array-except-self) |
 | [0739-daily-temperatures](https://github.com/HimanshuSingh-tech/DSA/tree/master/0739-daily-temperatures) |
 | [0948-bag-of-tokens](https://github.com/HimanshuSingh-tech/DSA/tree/master/0948-bag-of-tokens) |
+| [1288-remove-covered-intervals](https://github.com/HimanshuSingh-tech/DSA/tree/master/1288-remove-covered-intervals) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/HimanshuSingh-tech/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
 |  |
@@ -78,6 +79,7 @@ Interesting Questions of DSA
 |  |
 | ------- |
 | [0948-bag-of-tokens](https://github.com/HimanshuSingh-tech/DSA/tree/master/0948-bag-of-tokens) |
+| [1288-remove-covered-intervals](https://github.com/HimanshuSingh-tech/DSA/tree/master/1288-remove-covered-intervals) |
 ## Sliding Window
 |  |
 | ------- |
