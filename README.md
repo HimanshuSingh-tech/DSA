@@ -67,6 +67,7 @@ Interesting Questions of DSA
 | ------- |
 | [0012-integer-to-roman](https://github.com/HimanshuSingh-tech/DSA/tree/master/0012-integer-to-roman) |
 | [2739-total-distance-traveled](https://github.com/HimanshuSingh-tech/DSA/tree/master/2739-total-distance-traveled) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/HimanshuSingh-tech/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Two Pointers
 |  |
 | ------- |
