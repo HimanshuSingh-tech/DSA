@@ -33,6 +33,7 @@ Interesting Questions of DSA
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/HimanshuSingh-tech/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [2739-total-distance-traveled](https://github.com/HimanshuSingh-tech/DSA/tree/master/2739-total-distance-traveled) |
+| [3819-rotate-non-negative-elements](https://github.com/HimanshuSingh-tech/DSA/tree/master/3819-rotate-non-negative-elements) |
 ## Array
 |  |
 | ------- |
@@ -43,6 +44,7 @@ Interesting Questions of DSA
 | [1288-remove-covered-intervals](https://github.com/HimanshuSingh-tech/DSA/tree/master/1288-remove-covered-intervals) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/HimanshuSingh-tech/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/HimanshuSingh-tech/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3819-rotate-non-negative-elements](https://github.com/HimanshuSingh-tech/DSA/tree/master/3819-rotate-non-negative-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
