@@ -16,6 +16,7 @@ Interesting Questions of DSA
 | [0012-integer-to-roman](https://github.com/HimanshuSingh-tech/DSA/tree/master/0012-integer-to-roman) |
 | [1189-maximum-number-of-balloons](https://github.com/HimanshuSingh-tech/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/HimanshuSingh-tech/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/HimanshuSingh-tech/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2390-removing-stars-from-a-string](https://github.com/HimanshuSingh-tech/DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Counting
 |  |
@@ -40,6 +41,7 @@ Interesting Questions of DSA
 | [0739-daily-temperatures](https://github.com/HimanshuSingh-tech/DSA/tree/master/0739-daily-temperatures) |
 | [0948-bag-of-tokens](https://github.com/HimanshuSingh-tech/DSA/tree/master/0948-bag-of-tokens) |
 | [1288-remove-covered-intervals](https://github.com/HimanshuSingh-tech/DSA/tree/master/1288-remove-covered-intervals) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/HimanshuSingh-tech/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/HimanshuSingh-tech/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
 |  |
