@@ -38,6 +38,7 @@ Interesting Questions of DSA
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/HimanshuSingh-tech/DSA/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/HimanshuSingh-tech/DSA/tree/master/0046-permutations) |
 | [0238-product-of-array-except-self](https://github.com/HimanshuSingh-tech/DSA/tree/master/0238-product-of-array-except-self) |
 | [0739-daily-temperatures](https://github.com/HimanshuSingh-tech/DSA/tree/master/0739-daily-temperatures) |
 | [0948-bag-of-tokens](https://github.com/HimanshuSingh-tech/DSA/tree/master/0948-bag-of-tokens) |
@@ -66,6 +67,7 @@ Interesting Questions of DSA
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/HimanshuSingh-tech/DSA/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/HimanshuSingh-tech/DSA/tree/master/0046-permutations) |
 ## Math
 |  |
 | ------- |
