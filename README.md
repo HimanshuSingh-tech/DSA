@@ -37,6 +37,7 @@ Interesting Questions of DSA
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/HimanshuSingh-tech/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/HimanshuSingh-tech/DSA/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/HimanshuSingh-tech/DSA/tree/master/0046-permutations) |
 | [0238-product-of-array-except-self](https://github.com/HimanshuSingh-tech/DSA/tree/master/0238-product-of-array-except-self) |
@@ -77,6 +78,7 @@ Interesting Questions of DSA
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/HimanshuSingh-tech/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0948-bag-of-tokens](https://github.com/HimanshuSingh-tech/DSA/tree/master/0948-bag-of-tokens) |
 ## Greedy
 |  |
