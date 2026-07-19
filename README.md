@@ -26,6 +26,7 @@ Interesting Questions of DSA
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/HimanshuSingh-tech/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0739-daily-temperatures](https://github.com/HimanshuSingh-tech/DSA/tree/master/0739-daily-temperatures) |
 | [2390-removing-stars-from-a-string](https://github.com/HimanshuSingh-tech/DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
@@ -40,6 +41,7 @@ Interesting Questions of DSA
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HimanshuSingh-tech/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/HimanshuSingh-tech/DSA/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/HimanshuSingh-tech/DSA/tree/master/0046-permutations) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/HimanshuSingh-tech/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0238-product-of-array-except-self](https://github.com/HimanshuSingh-tech/DSA/tree/master/0238-product-of-array-except-self) |
 | [0739-daily-temperatures](https://github.com/HimanshuSingh-tech/DSA/tree/master/0739-daily-temperatures) |
 | [0948-bag-of-tokens](https://github.com/HimanshuSingh-tech/DSA/tree/master/0948-bag-of-tokens) |
@@ -73,6 +75,7 @@ Interesting Questions of DSA
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/HimanshuSingh-tech/DSA/tree/master/0012-integer-to-roman) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/HimanshuSingh-tech/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [2739-total-distance-traveled](https://github.com/HimanshuSingh-tech/DSA/tree/master/2739-total-distance-traveled) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/HimanshuSingh-tech/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Two Pointers
